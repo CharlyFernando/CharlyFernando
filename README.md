@@ -1,6 +1,8 @@
 # Hola, soy Charly 👋
 
-Soy **Carlos Fernando Muñoz Pérez** (Charly), ingeniero de software apasionado por resolver problemas complejos con código. Me encanta programar, la música, los deportes y los videojuegos. Actualmente, me enfoco en dominar **Python** y **C#** y aprender nuevos lenguajes para desarrollar soluciones en inteligencia artificial, desarrollo web, de escritorio y proximamente móvil.
+Soy **Carlos Fernando Muñoz Pérez** (Charly), ingeniero de sistemas apasionado por resolver problemas complejos con código. 
+- Me encanta programar, la música, los deportes y los videojuegos.
+- Mis metas a mediano plazo son dominar **Python** y **C#** y aprender nuevos lenguajes para desarrollar soluciones en inteligencia     artificial, desarrollo web, de escritorio y proximamente móvil.
 
 ## Mis Estadísticas en GitHub
 
