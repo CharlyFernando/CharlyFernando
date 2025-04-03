@@ -7,5 +7,3 @@ Soy **Carlos Fernando Muñoz Pérez** (Charly), ingeniero de software apasionado
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharlyFernando&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyFernando&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
-
-- [Email📧](fernandoperez15140@gmail.com)
